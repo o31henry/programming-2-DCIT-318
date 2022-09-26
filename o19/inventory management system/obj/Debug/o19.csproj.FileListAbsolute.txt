@@ -1,0 +1,24 @@
+C:\Users\ANDY OHENE\source\repos\o19\o19\bin\Debug\o19.exe.config
+C:\Users\ANDY OHENE\source\repos\o19\o19\bin\Debug\o19.exe
+C:\Users\ANDY OHENE\source\repos\o19\o19\bin\Debug\o19.pdb
+C:\Users\ANDY OHENE\source\repos\o19\o19\obj\Debug\o19.csproj.AssemblyReference.cache
+C:\Users\ANDY OHENE\source\repos\o19\o19\obj\Debug\o19.csproj.SuggestedBindingRedirects.cache
+C:\Users\ANDY OHENE\source\repos\o19\o19\obj\Debug\o19.Form1.resources
+C:\Users\ANDY OHENE\source\repos\o19\o19\obj\Debug\o19.Properties.Resources.resources
+C:\Users\ANDY OHENE\source\repos\o19\o19\obj\Debug\o19.csproj.GenerateResource.cache
+C:\Users\ANDY OHENE\source\repos\o19\o19\obj\Debug\o19.csproj.CoreCompileInputs.cache
+C:\Users\ANDY OHENE\source\repos\o19\o19\obj\Debug\o19.exe
+C:\Users\ANDY OHENE\source\repos\o19\o19\obj\Debug\o19.pdb
+C:\Users\ANDY OHENE\source\repos\o19\o19\obj\Debug\o19.ManageUsers.resources
+C:\Users\ANDY OHENE\source\repos\o19\inventory management system\bin\Debug\o19.exe.config
+C:\Users\ANDY OHENE\source\repos\o19\inventory management system\bin\Debug\o19.exe
+C:\Users\ANDY OHENE\source\repos\o19\inventory management system\bin\Debug\o19.pdb
+C:\Users\ANDY OHENE\source\repos\o19\inventory management system\obj\Debug\o19.csproj.AssemblyReference.cache
+C:\Users\ANDY OHENE\source\repos\o19\inventory management system\obj\Debug\o19.csproj.SuggestedBindingRedirects.cache
+C:\Users\ANDY OHENE\source\repos\o19\inventory management system\obj\Debug\o19.Form1.resources
+C:\Users\ANDY OHENE\source\repos\o19\inventory management system\obj\Debug\o19.ManageUsers.resources
+C:\Users\ANDY OHENE\source\repos\o19\inventory management system\obj\Debug\o19.Properties.Resources.resources
+C:\Users\ANDY OHENE\source\repos\o19\inventory management system\obj\Debug\o19.csproj.GenerateResource.cache
+C:\Users\ANDY OHENE\source\repos\o19\inventory management system\obj\Debug\o19.csproj.CoreCompileInputs.cache
+C:\Users\ANDY OHENE\source\repos\o19\inventory management system\obj\Debug\o19.exe
+C:\Users\ANDY OHENE\source\repos\o19\inventory management system\obj\Debug\o19.pdb
